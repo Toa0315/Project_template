@@ -1,3 +1,4 @@
+# https://codespaces.new/Toa0315/cleaned_trispay_project
 # [Django Dashboards](https://appseed.us/admin-dashboards/django/)
 
 A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/django/)** generated and actively supported by `AppSeed`. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
